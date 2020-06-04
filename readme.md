@@ -1,9 +1,9 @@
-#patronato
+# Patronato
 
-##Integrantes
+## Integrantes
 
 
-##Requisitos
+## Requisitos
 
 
 
